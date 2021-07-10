@@ -2,9 +2,9 @@
   "name": "work-1",
   "version": "1.0.0",
   "description": "test work",
-  "main": "index.js",
+  "main": "figlet.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node figlet.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vitaliy Ten",
